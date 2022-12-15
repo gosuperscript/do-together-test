@@ -23,7 +23,7 @@ class Quote
      * @param UuidInterface $productId
      * @param DateTimeImmutable $dateStart
      * @param BillingFrequency $billingFrequency
-     * @param Cover $covers
+     * @param Cover[] $covers
      */
     public function __construct(
         UuidInterface $quoteId,
