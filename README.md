@@ -14,6 +14,10 @@ Check out the tests folder for our work. You will find the references to our wor
 
 ### What is the interview going to be like?
 
+**You will be sharing your screen via a Google meeting, it is suggested to share using your IDE of choice as a driver.** 
+
+We will be looking at the code together and discussing it. We will be looking at the following:
+
 1. First, we'd like to get your general opinion on the code
 2. Second, we'd like to dive into the overall architecture a bit
 3. Third, we're going to look at some specific pieces of code
